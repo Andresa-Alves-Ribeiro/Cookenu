@@ -1,8 +1,3 @@
-Documentação POSTMAN:
-
-https://documenter.getpostman.com/view/20352321/UzJETKVL
-
-
 <h1 id="sobre">💳 Case: Cookenu Backend Challenge</h1>
 
 <p>Case de um projeto back-end desenvolvido através do Consumo da API Cookenu, no bootcamp da Labenu</p>
