@@ -1,6 +1,6 @@
 <h1 id="sobre">💳 Case: Cookenu Backend Challenge</h1>
 
-<p>Case de um projeto back-end desenvolvido através do Consumo da API Cookenu, um api de receitas, no bootcamp da Labenu</p>
+<p>Case de um projeto back-end criado para Consumo da API Cookenu, um api de receitas, no bootcamp da Labenu</p>
 
 <h2 id="link">🔗 Link API Postman: </h2>
 
